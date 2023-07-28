@@ -1,0 +1,50 @@
+.feedbackget {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url(https://img.freepik.com/free-photo/arrangement-with-different-feelings_23-2148857180.jpg?w=996&t=st=1690295067~exp=1690295667~hmac=0863055ad9c92930a7f61df9c8b491a20dff96fbc6c94bad16c3d352c80b0741);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .fgen {
+    border-collapse: collapse;
+    width: 10%;
+    height:10%;
+    max-width: 800px;
+    background-color: #99aef6;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    
+  }
+  
+  .fcontainer12 {
+    overflow-x: auto;
+    width:100%;
+  }
+  
+  .fform-title {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .fheader-cell {
+    padding: 12px 16px;
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  tbody td {
+    padding: 10px 16px;
+    font-size: 16px;
+    color: #080606;
+  }

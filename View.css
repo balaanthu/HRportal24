@@ -1,0 +1,19 @@
+.viewbgoff{
+  background-image:url(https://img.freepik.com/free-vector/white-technology-background-with-shapes_23-2148390677.jpg?w=1060&t=st=1690179924~exp=1690180524~hmac=5e979e868b8abf9cecac81ad2ebbcde4f3827975d9b6fe4ee4e2514c58bd9d6e);
+  height:1000px;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.gen {
+  width: 80%; 
+  margin: 0 auto; 
+}
+.container12{
+  padding-top:20%;
+  margin-left:22%;
+}
+.form-title {
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+}

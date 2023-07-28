@@ -1,0 +1,19 @@
+.loginbuttonadd{
+    border-style:double;
+    border-color: rgb(30, 28, 28);
+    background:none;
+    color: white;
+
+     text-align: center;
+     text-decoration: none;
+     
+     font-size: 20px; /* Increase the font size */
+     cursor: pointer;
+     height: 100%;
+}
+.dash3{
+    background-image: url(https://img.freepik.com/free-vector/digital-designers-team-drawing-with-pen-computer-monitor_74855-10586.jpg?w=996&t=st=1690114983~exp=1690115583~hmac=5626f19c46c8e7d9f35bb26407a56ef81287ec519ad22cb2edb53b922ac09f00);
+    height:1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
